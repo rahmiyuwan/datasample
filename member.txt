@@ -1,35 +1,28 @@
 {
   "data": [
     [
-      "Tiger Nixon",
-      "System Architect",
-      "Edinburgh",
-      "5421",
-      "2011/04/25",
-      "$320,800"
+      "Risa D. Pearson",
+      "Finance",
+      "Staff Accountant",
+      "risa@dept.com"
     ],
     [
-      "Garrett Winters",
-      "Accountant",
-      "Tokyo",
-      "8422",
-      "2011/07/25",
-      "$170,750"
-    ],    [
-      "Michael Bruce",
-      "Javascript Developer",
-      "Singapore",
-      "5384",
-      "2011/06/27",
-      "$183,000"
+      "Paul J. Friend",
+      "Marketing",
+      "Sales",
+      "paul@dept.com"
     ],
     [
-      "Donna Snider",
-      "Customer Support",
-      "New York",
-      "4226",
-      "2011/01/25",
-      "$112,000"
+      "Linda G. Smith",
+      "Marketing",
+      "Marketing Analyst",
+      "linda@dept.com"
+    ],
+    [
+      "John C. Cloud",
+      "Finance",
+      "Senior Accountant",
+      "john@dept.com"
     ]
   ]
 }
