@@ -25,7 +25,7 @@
       "dept": "Marketing", 
       "checkbox": " <input type=\"checkbox\">", 
       "position": "Marketing Analyst", 
-      "name": "Rodriquez Gentry", 
+      "name": "John C. Cloud", 
       "idmember": 4
     }, 
     {
