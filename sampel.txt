@@ -2,35 +2,35 @@
   "data": [
     {
       "company": "OVERPLEX", 
-      "checkbox": " <input type=\"checkbox\" name=\"vehicle1\" value=\"Bike\">", 
+      "checkbox": " <input type=\"checkbox\">", 
       "place": "EUA", 
       "name": "Cannon Morin", 
       "order": 1
     }, 
     {
       "company": "UNDERTAP", 
-      "checkbox": " <input type=\"checkbox\" name=\"vehicle5\" value=\"ship\">", 
+      "checkbox": " <input type=\"checkbox\">", 
       "place": "China", 
       "name": "Neva Allison", 
       "order": 2
     }, 
     {
       "company": "CORIANDER", 
-      "checkbox": " <input type=\"checkbox\" name=\"vehicle4\" value=\"airplane\">", 
+      "checkbox": " <input type=\"checkbox\">", 
       "place": "Spain", 
       "name": "Rodriquez Gentry", 
       "order": 3
     }, 
     {
       "company": "CORIANDER", 
-      "checkbox": " <input type=\"checkbox\" name=\"vehicle3\" value=\"motorcycle\">", 
+      "checkbox": " <input type=\"checkbox\">", 
       "place": "Spain", 
       "name": "Rodriquez Gentry", 
       "order": 4
     }, 
     {
       "company": "UNDERTAP", 
-      "checkbox": " <input type=\"checkbox\" name=\"vehicle2\" value=\"car\">", 
+      "checkbox": " <input type=\"checkbox\">", 
       "place": "China", 
       "name": "Neva Allison", 
       "order": 5
