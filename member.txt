@@ -1,28 +1,32 @@
 {
   "data": [
-    [
-      "Risa D. Pearson",
-      "Finance",
-      "Staff Accountant",
-      "risa@dept.com"
-    ],
-    [
-      "Paul J. Friend",
-      "Marketing",
-      "Sales",
-      "paul@dept.com"
-    ],
-    [
-      "Linda G. Smith",
-      "Marketing",
-      "Marketing Analyst",
-      "linda@dept.com"
-    ],
-    [
-      "John C. Cloud",
-      "Finance",
-      "Senior Accountant",
-      "john@dept.com"
-    ]
+    {
+      "id": 1,
+      "name": "Risa D. Pearson",
+      "dept": "Finance",
+      "position": "Staff Accountant",
+      "email": "risa@dept.com"
+    },
+    {
+      "id": 2
+      "name": "Paul J. Friend",
+      "dept": "Marketing",
+      "position": "Sales",
+      "email": "paul@dept.com"
+    },
+    {
+      "id": 3
+      "name": "Linda G. Smith",
+      "dept: "Marketing",
+      "position": "Marketing Analyst",
+      "email": "linda@dept.com"
+    },
+    {
+      "id": 4
+      "name": "John C. Cloud",
+      "dept": "Finance",
+      "position": "Senior Accountant",
+      "email": "john@dept.com"
+    }
   ]
 }
