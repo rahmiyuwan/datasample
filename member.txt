@@ -1,36 +1,36 @@
-{
-	"data": [
-  {
-			"id": 1,
-			"name": "Risa D. Pearson",
-			"dept": "Finance",
-			"position": "Staff Accountant",
-			"email": "risa@dept.com",
-			"checkbox": "<input type=\"checkbox\">"
-		},
-		{
-			"id": 2,
-			"name": "Paul J. Friend",
-			"dept": "Marketing",
-			"position": "Sales",
-			"email": "paul@dept.com",
-			"checkbox": "<input type=\"checkbox\">"
-		},
-		{
-			"id": 3,
-			"name": "Linda G. Smith",
-			"dept": "Marketing",
-			"position": "Marketing Analyst",
-			"email": "linda@dept.com",
-			"checkbox": "<input type=\"checkbox\">"
-		},
-		{
-			"id": 4,
-			"name": "John C. Cloud",
-			"dept": "Finance",
-			"position": "Senior Accountant",
-			"email": "john@dept.com",
-			"checkbox": "<input type=\"checkbox\">"
-		}
-	]
+{ 
+ "data": [
+  	{
+	"id": 1,
+	"name": "Risa D. Pearson",
+	"dept": "Finance",
+	"position": "Staff Accountant",
+	"email": "risa@dept.com",
+	"checkbox": "<input type=\"checkbox\">"
+	},
+	{
+	"id": 2,
+	"name": "Paul J. Friend",
+	"dept": "Marketing",
+	"position": "Sales",
+	"email": "paul@dept.com",
+	"checkbox": "<input type=\"checkbox\">"
+	},
+	{
+	"id": 3,
+	"name": "Linda G. Smith",
+	"dept": "Marketing",
+	"position": "Marketing Analyst",
+	"email": "linda@dept.com",
+	"checkbox": "<input type=\"checkbox\">"
+	},
+	{
+	"id": 4,
+	"name": "John C. Cloud",
+	"dept": "Finance",
+	"position": "Senior Accountant",
+	"email": "john@dept.com",
+	"checkbox": "<input type=\"checkbox\">"
+	}
+]
 }
