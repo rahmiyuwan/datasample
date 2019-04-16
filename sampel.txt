@@ -3,7 +3,7 @@
     {
       "dept": "Finance", 
       "checkbox": " <input type=\"checkbox\">", 
-      "posititon": "Staff Accountant", 
+      "position": "Staff Accountant", 
       "name": "Cannon Morin", 
       "idmember": 1
     }, 
