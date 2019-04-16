@@ -1,39 +1,39 @@
 {
   "data": [
     {
-      "company": "OVERPLEX", 
+      "dept": "Finance", 
       "checkbox": " <input type=\"checkbox\">", 
-      "place": "EUA", 
+      "posititon": "Staff Accountant", 
       "name": "Cannon Morin", 
-      "order": 1
+      "idmember": 1
     }, 
     {
-      "company": "UNDERTAP", 
+      "dept": "Finance", 
       "checkbox": " <input type=\"checkbox\">", 
-      "place": "China", 
+      "position": "Senior Accountant", 
       "name": "Neva Allison", 
-      "order": 2
+      "idmember": 2
     }, 
     {
-      "company": "CORIANDER", 
+      "dept": "Marketing", 
       "checkbox": " <input type=\"checkbox\">", 
-      "place": "Spain", 
+      "position": "Sales", 
       "name": "Rodriquez Gentry", 
-      "order": 3
+      "idmember": 3
     }, 
     {
-      "company": "CORIANDER", 
+      "dept": "Marketing", 
       "checkbox": " <input type=\"checkbox\">", 
-      "place": "Spain", 
+      "position": "Marketing Analyst", 
       "name": "Rodriquez Gentry", 
-      "order": 4
+      "idmember": 4
     }, 
     {
-      "company": "UNDERTAP", 
+      "dept": "Finance", 
       "checkbox": " <input type=\"checkbox\">", 
-      "place": "China", 
+      "position": "Junior Accountant", 
       "name": "Neva Allison", 
-      "order": 5
+      "idmember": 5
     }
   ]
 }
