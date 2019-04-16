@@ -6,7 +6,7 @@
       "Edinburgh",
       "5421",
       "2011/04/25",
-      "<input type="checkbox">"
+      "$170,750"
     ],
     [
       "Garrett Winters",
