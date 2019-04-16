@@ -6,7 +6,7 @@
       "dept": "Finance",
       "position": "Staff Accountant",
       "email": "risa@dept.com",
-      "checkbox": " <input type=\"checkbox\">"
+      "checkbox": "<input type=\"checkbox\">"
     },
     {
       "id": 2
@@ -14,7 +14,7 @@
       "dept": "Marketing",
       "position": "Sales",
       "email": "paul@dept.com",
-      "checkbox": " <input type=\"checkbox\">"
+      "checkbox": "<input type=\"checkbox\">"
     },
     {
       "id": 3
@@ -22,7 +22,7 @@
       "dept: "Marketing",
       "position": "Marketing Analyst",
       "email": "linda@dept.com",
-      "checkbox": " <input type=\"checkbox\">"
+      "checkbox": "<input type=\"checkbox\">"
     },
     {
       "id": 4
@@ -30,7 +30,7 @@
       "dept": "Finance",
       "position": "Senior Accountant",
       "email": "john@dept.com",
-      "checkbox": " <input type=\"checkbox\">"
+      "checkbox": "<input type=\"checkbox\">"
     }
   ]
 }
