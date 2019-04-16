@@ -1,0 +1,36 @@
+{ 
+ "data": [
+  	[
+    1,
+    "name": "Risa D. Pearson",
+    "Finance",
+    "Staff Accountant",
+    "risa@dept.com",
+    "<input type=\"checkbox\">"
+    ],
+    [
+    2,
+    "name": "Paul J. Friend",
+    "Marketing",
+    "Sales",
+    "paul@dept.com",
+    "<input type=\"checkbox\">"
+    ],
+    [
+    3,
+    "name": "Linda G. Smith",
+    "Marketing",
+    "Marketing Analyst",
+    "linda@dept.com",
+    "<input type=\"checkbox\">"
+    ],
+    [
+    4,
+    "name": "John C. Cloud",
+    "Finance",
+    "Senior Accountant",
+    "john@dept.com",
+    "<input type=\"checkbox\">"
+    ]
+]
+}
